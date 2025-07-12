@@ -28,5 +28,25 @@
             top: 50%;
         }
 
+        .logo-image {
+            max-width: 90%;
+        }
+
+        aside {
+            margin-left: 10%;
+        }
+
+        p {
+            width: 90%;
+        }
+
+        h1 {
+            width: 90%;
+        }
+
+        h2 {
+            width: 90%;
+        }
+
     }
 }
