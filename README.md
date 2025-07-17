@@ -3,6 +3,10 @@
 **Site responsivo & moderno com foco em UX**
 
 Um projeto de site responsivo criado com HTML, CSS e media queries, apresentando menus suspensos, design clean e experiência otimizada para desktop e mobile. Ideal para sites institucionais, portfolios ou pequenas empresas que valorizam usabilidade e estética moderna.
+<br>
+<a href="https://alexandresilva78.github.io/projeto-responsivo-we-care/" target="_blank" alt='Projeto-responsivo-we-care' >
+  Acesse o site publicado.
+</a>
 
 ---
 
@@ -30,15 +34,14 @@ Este projeto demonstra:
 
 ---
 
-<a href="https://alexandresilva78.github.io/projeto-responsivo-site-localizacao-de-ampla-cobertura/" target="_blank" alt='Projeto-Responsivo' >
-  Acesse o site publicado.
-</a>
 <br>
+📷 Visual em notebook:
 <br>
 <p align="center">
   <img src="Img/We Care Notebook adaptado sem bg.png" alt="Preview We Care Notebook adaptado sem bg" width="600"/>
 </p>
-
+📱 Visual em mobile:
+<br>
 <p align="center">
   <img src="Img/We Care responsivo adaptado sem bg.png" alt="Preview We Care responsivo adaptado mobile sem bg" width="300"/>
 </p>
