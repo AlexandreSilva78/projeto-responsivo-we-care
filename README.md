@@ -4,7 +4,7 @@
 
 Um projeto de site responsivo criado com HTML, CSS e media queries, apresentando menus suspensos, design clean e experiência otimizada para desktop e mobile. Ideal para sites institucionais, portfolios ou pequenas empresas que valorizam usabilidade e estética moderna.
 <br>
-<a href="https://alexandresilva78.github.io/projeto-responsivo-we-care/" target="_blank" alt='Projeto-responsivo-we-care' >
+<a href="https://alexandresilva78.github.io/projeto-responsivo-we-care/" target="blank" alt='Projeto-responsivo-we-care' >
   Acesse o site publicado.
 </a>
 
